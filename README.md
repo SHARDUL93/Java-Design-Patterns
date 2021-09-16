@@ -11,3 +11,7 @@ Hands-on on Core and Java EE Design Patterns
 7. Command pattern
 8. Decorator pattern
 9. Inversion of Control(IOC) pattern
+
+# Other patterns
+1. Presentation-Tier pattern
+2. Front Controller patterns
