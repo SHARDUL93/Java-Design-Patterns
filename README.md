@@ -11,6 +11,10 @@ Hands-on on Core and Java EE Design Patterns
 7. Command pattern
 8. Decorator pattern
 9. Inversion of Control(IOC) pattern
+10. Proxy pattern
+11. Prototype pattern
+12. Builder pattern
+13. Facade pattern
 
 ### Other patterns
 1. Presentation-Tier pattern
