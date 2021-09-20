@@ -24,3 +24,7 @@ Hands-on on Core and Java EE Design Patterns
 
 ### Mini poject using MVC, DAO and Business delegate
 movie tickets
+
+### Credential Links
+1. https://www.udemy.com/certificate/UC-1a25f55d-d6b9-448c-abe9-f05a2f4d0f99/
+2. https://www.udemy.com/certificate/UC-27decab2-e5e0-4d58-8817-6491391c98b0/
